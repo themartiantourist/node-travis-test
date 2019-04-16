@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/themartiantourist/node-travis-test/issues"
   },
-  "homepage": "https://github.com/themartiantourist/node-travis-test#readme"
+  "homepage": "https://github.com/themartiantourist/node-travis-test#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.3"
+  }
 }
